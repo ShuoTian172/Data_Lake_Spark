@@ -9,7 +9,6 @@ As a data engineer, I was responsible for developing a data lake for the analyti
 As their data engineer, I was responsible for building out an ETL pipeline, extracting data from S3 buckets, processing it through Spark and transforming into a star schema stored in S3 buckets with parquet formatting and efficient partitioning. The database and ETL pipeline were validated by running queries provided by the analytics team and compared expected results.
 Skills include:
 * Building out an ETL pipeline using Spark, Python, Hadoop Clusters (EMR).
-* Fast-tracking the data lake buildout using (serverless) AWS Lambda and cataloging tables with an AWS Glue Crawler
 * Setting up IAM Roles, Hadoop Clusters, EMR,  Config files and security groups.
 * Scaling up the data analysis process through the use of a data lake and Spark, in order to further optimize queries on song play analysis
 
